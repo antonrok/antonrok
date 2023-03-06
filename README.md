@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dive.</h1>
 <h3 align="center">Develop various programs and bots in python</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/saitamasahil/saitamasahil/main/gif.gif")
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/prince-dive/prince-dive/main/gif.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-dive&label=Profile%20views&color=0e75b6&style=flat" alt="saitamasahil" /> </p>
 
